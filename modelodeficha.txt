@@ -14,4 +14,11 @@ Dex
 Con
 Vit
 Pon
-----
+---------
+Str
+Dex
+Vit
+Int
+Luck
+Agi
+------
